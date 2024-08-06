@@ -1,0 +1,11 @@
+Package: AHA16
+Type: Package
+Title: Left and Right Ventricular Segmentation Visualization According to AHA in R
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Giandomenico Bisaccia <bisacciagiandomenico@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
